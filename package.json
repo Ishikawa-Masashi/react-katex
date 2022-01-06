@@ -62,6 +62,9 @@
       "**/tests/**/*.test.ts"
     ]
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/thzt/test-vite-lib"
